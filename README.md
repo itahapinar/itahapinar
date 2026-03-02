@@ -1,40 +1,44 @@
-<h1 align="center">Taha</h1>
+<h1 align="center">Hi, I'm Taha</h1>
+
 <p align="center">
-Software Engineer • Backend Developer • AI Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;AI+Enthusiast;C%23+%7C+Python+%7C+PostgreSQL" />
 </p>
 
 ---
 
-## About Me
+## About
 
-- Backend sistemleri geliştiriyorum  
-- C# ve Python ile üretim odaklı projeler yapıyorum  
-- Yapay zeka ve otomasyon sistemlerine ilgim var  
-- Sistem tasarımı ve performans optimizasyonu üzerine çalışıyorum  
+Backend focused software engineer building scalable systems and automation tools.  
+Interested in AI integration, system design and performance optimization.
 
 ---
 
 ## Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cs,python,kotlin,postgresql,docker,git" />
 
 ---
 
-## GitHub Stats
+## What I'm Working On
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
-</p>
+- 🔹 Backend architecture projects  
+- 🔹 AI-powered automation systems  
+- 🔹 Desktop automation (C# / WinForms)  
+- 🔹 Database optimization & API design  
+
+---
+
+## Selected Projects
+
+| Project | Description | Tech |
+|---------|------------|------|
+| Smart Service Automation | Desktop automation system with DB integration | C#, PostgreSQL |
+| Flappy Bird Clone | Game logic, physics & collision system | C# |
+| AI Report Generator | Automated analysis & reporting system | Python |
 
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- Email: yourmail@example.com
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+Email: yourmail@example.com
