@@ -22,10 +22,9 @@
 
 ## 🧰 Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,kotlin,postgres,docker,git,github&perline=8" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,kotlin,postgres,docker,git,github,linux&perline=9" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
