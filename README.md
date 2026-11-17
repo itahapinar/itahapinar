@@ -20,7 +20,6 @@
 - 🤖 **LLM ajanları** ve **Model Context Protocol (MCP)** sunucuları geliştiriyorum. Model seçimini sezgiyle değil, ölçerek yapıyorum: doğru araç seçimi ve gecikme.
 - 📈 Borsa İstanbul verisiyle çalışan ajanlar, makine öğrenmesi modelleri ve Telegram botları yazıyorum.
 - 🌱 Şu anda **LangGraph** ile çok adımlı bir emlak asistanı ve kaynak gösteren bir **RAG** sistemi üzerinde çalışıyorum.
-- 🎯 **Yapay zekâ / LLM ajanları** alanında staj fırsatı arıyorum.
 
 ---
 
@@ -179,7 +178,7 @@
 
 ## 📫 İletişim
 
-Staj, proje veya iş birliği için bana her zaman yazabilirsin:
+Proje veya iş birliği için bana her zaman yazabilirsin:
 
 - 📧 **E-posta:** [i.tahapinar@gmail.com](mailto:i.tahapinar@gmail.com)
 - 💼 **LinkedIn:** [ibrahim-taha-pınar](https://www.linkedin.com/in/ibrahim-taha-p%C4%B1nar-5b6854340/)
