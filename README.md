@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-taha-p%C4%B1nar-5b6854340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:i.tahapinar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://img.shields.io/badge/Konum-Elaz%C4%B1%C4%9F%2C%20T%C3%BCrkiye-1F3A5F?style=for-the-badge" alt="Konum" />
 </p>
 
 ---
