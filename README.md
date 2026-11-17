@@ -96,24 +96,6 @@
       <a href="https://github.com/itahapinar/BorsaAgent">➡️ Repoya git</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 FinansAgent</h3>
-      <p><b>BIST ertesi gün kapanış tahmin sistemi</b></p>
-      <ul>
-        <li>Veri, temizleme, haber duygu analizi, özellik, eğitim ve tahmin için <b>ayrı ajanlardan</b> oluşan ML hattı</li>
-        <li>~80 özellik, <b>Ridge + LightGBM</b> ensemble, Optuna ile optimizasyon</li>
-        <li>CQR ile kalibre edilmiş <b>%90 tahmin aralığı</b>, SHAP ile açıklanabilirlik</li>
-        <li>Walk-forward doğrulama ve veri sızıntısı testleri</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-LightGBM-2E7D32?style=flat-square" />
-        <img src="https://img.shields.io/badge/-SHAP-8E24AA?style=flat-square" />
-        <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>📢 KAP Bildirim Botu</h3>
       <p><b>Önemli şirket açıklamalarını 7/24 yakalayan bot</b></p>
       <ul>
@@ -127,6 +109,8 @@
         <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>☀️ Sabah Piyasa Botu</h3>
       <p><b>Sunucusuz günlük piyasa raporu</b></p>
@@ -142,8 +126,6 @@
       </p>
       <a href="https://github.com/itahapinar/piyasa-botu">➡️ Repoya git</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🔐 VPN İstemcileri</h3>
       <p><b>Kendi OpenVPN sunucum için Windows ve Android uygulamaları</b></p>
@@ -157,6 +139,8 @@
         <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎬 Cep Sinema</h3>
       <p><b>Çevrimdışı video ve altyazı indirme uygulaması</b></p>
