@@ -44,8 +44,6 @@
 ### 📊 Makine Öğrenmesi ve Veri
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-1E5AA8?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-8E24AA?style=for-the-badge)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -108,6 +106,7 @@
         <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
+      <a href="https://github.com/itahapinar/Kap-Bot">➡️ Repoya git</a>
     </td>
   </tr>
   <tr>
