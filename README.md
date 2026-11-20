@@ -149,7 +149,7 @@
       <p><b>Kendi OpenVPN sunucum için Windows ve Android uygulamaları</b></p>
       <ul>
         <li>PyQt6 masaüstü ve Jetpack Compose Android istemcisi, ortak tasarım dili</li>
-        <li>VPN engelleyen ağlar için TCP 443 üzerinden TLS tüneli</li>
+        <li>VPN engelleyen ağlar için UDP 443 üzerinden TLS tüneli</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
