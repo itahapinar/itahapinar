@@ -91,8 +91,27 @@
         <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
         <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
-      <a href="https://github.com/itahapinar/BorsaAgent">➡️ Telegram ajanı</a> · <a href="https://github.com/itahapinar/bist_mcp">🔌 MCP sunucusu</a>
+      <a href="https://github.com/itahapinar/BorsaAgent">➡️ Repoya git</a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🔌 BIST MCP Sunucusu</h3>
+      <p><b>Borsa İstanbul verisini LLM'lere açan MCP sunucusu</b></p>
+      <ul>
+        <li><b>18 araç:</b> 10 hisse, 6 analiz, 2 makro; İş Yatırım, KAP, yfinance ve TCMB EVDS kaynakları</li>
+        <li>Oranlar TL bazında hesaplanır: yfinance'in THYAO'da <b>49 kat hatalı</b> PD/DD'si düzeltildi</li>
+        <li>630 hisselik tarama tablosu arka planda güncellenir; önbellek ve hız sınırlayıcı</li>
+        <li>Claude Desktop ve her MCP istemcisiyle çalışır</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      </p>
+      <a href="https://github.com/itahapinar/bist_mcp">➡️ Repoya git</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📢 KAP Bildirim Botu</h3>
       <p><b>Önemli şirket açıklamalarını 7/24 yakalayan bot</b></p>
@@ -108,8 +127,6 @@
       </p>
       <a href="https://github.com/itahapinar/Kap-Bot">➡️ Repoya git</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>☀️ Sabah Piyasa Botu</h3>
       <p><b>Sunucusuz günlük piyasa raporu</b></p>
@@ -125,6 +142,8 @@
       </p>
       <a href="https://github.com/itahapinar/piyasa-botu">➡️ Repoya git</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔐 VPN İstemcileri</h3>
       <p><b>Kendi OpenVPN sunucum için Windows ve Android uygulamaları</b></p>
@@ -138,8 +157,6 @@
         <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎬 Cep Sinema</h3>
       <p><b>Çevrimdışı video ve altyazı indirme uygulaması</b></p>
