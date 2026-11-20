@@ -91,7 +91,7 @@
         <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
         <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
-      <a href="https://github.com/itahapinar/BorsaAgent">➡️ Repoya git</a>
+      <a href="https://github.com/itahapinar/BorsaAgent">➡️ Telegram ajanı</a> · <a href="https://github.com/itahapinar/bist_mcp">🔌 MCP sunucusu</a>
     </td>
     <td width="50%" valign="top">
       <h3>📢 KAP Bildirim Botu</h3>
