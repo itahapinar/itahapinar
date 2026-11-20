@@ -156,6 +156,7 @@
         <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       </p>
+      <a href="https://github.com/itahapinar/VPN">➡️ Repoya git</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Cep Sinema</h3>
